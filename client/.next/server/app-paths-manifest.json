@@ -1,0 +1,10 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/task/[projectId]/page": "app/task/[projectId]/page.js",
+  "/task/add/page": "app/task/add/page.js",
+  "/task/edit/[taskId]/page": "app/task/edit/[taskId]/page.js",
+  "/page": "app/page.js",
+  "/project/[userId]/page": "app/project/[userId]/page.js",
+  "/project/add/page": "app/project/add/page.js",
+  "/(form)/login/page": "app/(form)/login/page.js"
+}
